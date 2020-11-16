@@ -1,2 +1,2 @@
 # employees-app
-Web app for demo
+Web app for demonstration of various appsec tasks.
